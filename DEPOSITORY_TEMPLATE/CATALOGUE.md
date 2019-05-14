@@ -7,9 +7,9 @@ Each Item in the MATERIAL folder of Depository should have a corresponding recor
 Please note that:
 * Name and Surname of actors should be linked to their paragraph in [ACTORS.md](./ACTORS.md) file;
 * Items should be linked to the file [inside the repository](./MATERIAL/);
-* On the [second part of the Catalogue](./CATALOGUE.md#SW_NAME-Depository-Catalougue-Tree) should be copied the result of the comand `tree -a` ;
+* On the [second part of the Catalogue](./CATALOGUE.md#SW_NAME-Depository-Catalougue-Tree) should be copied the result of the command `tree -a` ;
 * Notes are optional;
-* *Warehouse:* is optional - should be used only when a phisical warehouse is used to store material taken from the *origin*.
+* *Warehouse:* is optional - should be used only when a physical warehouse is used to store material taken from the *origin*.
 
 Example of Actor link:
 ~~~

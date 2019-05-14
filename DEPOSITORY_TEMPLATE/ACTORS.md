@@ -2,7 +2,7 @@
 
 Here we propose a template for ACTORS<span>.md for Depository of DIUNIPI SWH Acquisition Process.
 
-Each partecipand of the process to build the Depository should have a corresponding record on the ACTORS<span>.md with the structure below.
+Each participant of the process to build the Depository should have a corresponding record on the ACTORS<span>.md with the structure below.
 
 Please note that:
 
@@ -30,5 +30,3 @@ Example of Item link:
    * *Historical:* Organization, email, contact information
   * *Roles:* 
   
-
-
