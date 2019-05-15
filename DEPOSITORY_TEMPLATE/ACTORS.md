@@ -24,9 +24,14 @@ Example of Item link:
 
 # SW_NAME Depository Actors
 
+
 * # Name Surname
   * *Affiliation* 
-   * *Current:* Organization, email, contact information, github handle
-   * *Historical:* Organization, email, contact information
-  * *Roles:* 
+     * *Current:* [Example Departement](www.example.com)
+       * *Email:* <surname@example.com> 
+       * *Github handle:* [@github](https://github.com/github)
+       * *Website:* <http://www.example.com/~example/>
+     * *Historical:* [Ancient Example Departement](www.ancient.example.com)
+       * *Email:* <surname@ancient.example.com> 
+  * *Roles:* Author
   
