@@ -1,4 +1,3 @@
-# DIUNIPI-SWH-TEMPLATE
+# SWHAP-TEMPLATE
 template for software acquisition process for Software Heritage
 
-Push/Pull Acquisition
