@@ -1,4 +1,0 @@
-SRC
-This folder will be cloned as SWH-$SW-NAME, to be saved in SWH.
-Obviously, $SW-NAME is a bad idea, it should be renamed CURATED-SC...
-Files to be added: actors, catalogue, journal, codemeta.
