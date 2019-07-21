@@ -29,3 +29,4 @@ license | TBD | CreativeWork or URL | *info about the runtime environment* A lic
 author | TBD | Organization or Person | *\[authors\]* The author of this content or rating. Please note that author is special in that HTML 5 provides a special mechanism for indicating authorship via the rel tag. That is equivalent to this and may be used interchangeably.
 *Developers* | TBD | Person | *\["other contributors and mantainers"\]* **maintainer, contributor?**
 affiliation | TBD | Text **Why not Organization?** | An organization that this person is affiliated with. For example, a school/university.
+
