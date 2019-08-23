@@ -1,6 +1,6 @@
-Workbench of [$SW_NAME](https://github.com/Unipisa/SWH-$SW_NAME) aquisition.
+Workbench of [$SW_NAME](https://github.com/Unipisa/SWH-$SW_NAME) acquisition.
 
-In [1 - raw matherial](./1-raw_matherial) folder put is the original material;
+In [1 - raw material](./1-raw_material) folder put is the original material;
 
 In [2 - browsable source](./2-browsable_source) folder put is the unzipped source code;
 
