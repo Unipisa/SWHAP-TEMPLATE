@@ -8,4 +8,4 @@ In [browsable source](./browsable_source) folder put is the unzipped source code
 
 In [source](./source) folder put is the curated source code to build the synthetic git by [DT2SG](https://github.com/Unipisa/DIUNIPI-SWH-SSGC);;
 
-Files in [metadata](/.metadata) folders are as described by [SWHAP-PISA](https://github.com/Unipisa/SWHAP-DT2SG) guidelines.
+Files in [metadata](/.metadata) folder are as described by [SWHAP-PISA](https://github.com/Unipisa/SWHAP-DT2SG) guidelines.
