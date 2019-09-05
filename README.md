@@ -1,6 +1,6 @@
-# $SW_NAME Workbench
+# SW_NAME Workbench
 
-Workbench of [$SW_NAME](https://github.com/Unipisa/SWH-$SW_NAME) acquisition.
+Workbench of [SW_NAME](https://github.com/Unipisa/SWH-SW_NAME) acquisition.
 
 In [raw material](./raw_material) folder put is the original material;
 
