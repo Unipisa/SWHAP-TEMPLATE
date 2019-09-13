@@ -1,11 +1,13 @@
 # SW_NAME Workbench
 
-Workbench of [SW_NAME](https://github.com/Unipisa/SWH-SW_NAME) acquisition.
+Any [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench comes with a few predefined folders, to support the users in the process. 
 
-In [raw material](./raw_material) folder put is the original material;
+Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
 
-In [browsable source](./browsable_source) folder put is the unzipped source code;
+Folder [browsable source](./browsable_source) is for a browsable version of the source code. Source files, with right extention, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, immages should be trascibed, etc.
 
-In [source](./source) folder put is the curated source code to build the synthetic git by [DT2SG](https://github.com/Unipisa/DIUNIPI-SWH-SSGC);;
+Folder [source](./source) is for the curated revision of the source code, as a base for the recontruction of the development history as a git repository, i.e., a folder for each major version of the code.
 
-Files in [metadata](/.metadata) folder are as described by [SWHAP-PISA](https://github.com/Unipisa/SWHAP-DT2SG) guidelines.
+Folder [metadata](/.metadata) holds various files with meta information used throughout the process. 
+
+Please refear to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
