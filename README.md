@@ -12,4 +12,6 @@ The workbench comes with the predefined folders that are used in the supported p
 
 1. Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
 
+Please note that this file need be **deleted or renamed** after instantiation.
+
 Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
