@@ -1,4 +1,4 @@
-# SW_NAME Workbench
+# A template to create a workbench to support the acquisition of legacy source code and feed it to Software Heritage.
 
 Any [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench comes with a few predefined folders, to support the users in the process. 
 
