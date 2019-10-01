@@ -1,6 +1,6 @@
 # Supporting the preservation of legacy source code.
 
-Instantiating this template creates a workbench to support the acquisition of legacy source code, according to [SWHAP](), the [Software Heritage]() Acquisition Process defined by the [SWHAP\@Pisa]() project.
+Instantiating this template creates a workbench to support the acquisition of legacy source code, according to [SWHAP](), the [Software Heritage](https://www.softwareheritage.org/) Acquisition Process defined by the [SWHAP\@Pisa]() project.
 
 The workbench comes with the predefined folders that are used in the supported process. Namely:
 
