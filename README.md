@@ -10,6 +10,6 @@ The workbench comes with the predefined folders that are used in the supported p
 
 1. Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history as a git repository, i.e., a folder for each major version of the code.
 
-1. Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal) used throughout the process. 
+1. Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
 
 Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
