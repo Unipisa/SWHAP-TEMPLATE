@@ -6,6 +6,8 @@ SW_DESCRIPTION
 
 **Please note** that this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.
 
+Any [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench comes with a few predefined folders, to support the users in the process.
+
 Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
 
 Folder [browsable source](./browsable_source) is for a browsable version of the source code. Source files, with right extention, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, immages should be trascibed, etc.
