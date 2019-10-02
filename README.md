@@ -1,13 +1,17 @@
-# SW_NAME Workbench
+# Supporting the preservation of legacy source code.
 
-Any [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench comes with a few predefined folders, to support the users in the process. 
+Instantiating this template creates a workbench to support the acquisition of legacy source code, according to [SWHAP](), the [Software Heritage](https://www.softwareheritage.org/) Acquisition Process defined by the [SWHAP\@Pisa]() project.
 
-Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
+The workbench comes with the predefined folders that are used in the supported process. Namely:
 
-Folder [browsable source](./browsable_source) is for a browsable version of the source code: the files, with the right extension, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, code should be transcribed if images were found, etc.
+1. Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
 
-Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history as a git repository, i.e., a folder for each major version of the code.
+1. Folder [browsable source](./browsable_source) is for a browsable version of the source code. Source files, with the right extension, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, code should be transcribed if provided by images, etc.
 
-Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal) used throughout the process. 
+1. Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history as a git repository.
+
+1. Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
+
+Please note that this file need be **deleted or renamed** after instantiation.
 
 Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
