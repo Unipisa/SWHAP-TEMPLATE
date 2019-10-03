@@ -1,6 +1,6 @@
 # SW_NAME Workbench
 
-### This workbench is for the acquisition of the source code of SW_NAME.
+### This the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME.
 SW_DESCRIPTION
 \<Please add here short information on the code being acquired\>  
 
