@@ -46,12 +46,7 @@
         "affiliation" : "affiliation at the time of development",
         "email": "given.family@org.com"
     }
-    ],
-    "@type": "Person",
-    "givenName": "Given",
-    "familyName": "Family",
-    "affiliation" : "affiliation at the time of development",
-    "email": "given.family@org.com"
+    ]
 }
 
 
