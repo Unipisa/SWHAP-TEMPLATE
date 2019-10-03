@@ -6,7 +6,6 @@
     "applicationCategory" : "Type of software application, e.g. 'Game, Multimedia'",
     "name": "software name",
     "codeRepository":  "URL to related resources",
-    "domain" : "Memory Management",
     "license": "info about the license",
     "version": "X.X",
     "keywords" : [
