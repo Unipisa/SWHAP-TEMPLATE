@@ -1,6 +1,14 @@
 # SW_NAME
 
-### SW_SHORT_DESCRIPTION 
+### SW_DESCRIPTION 
+
+-------------------
+
+**Please note** that this file need be renamed as README.md just after instantiation. 
+
+We suggest that you delete these lines, once done.
+
+-------------------
 
 This repository was created with the support of the 
 [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains the 

@@ -1,14 +1,12 @@
 # SW_NAME Workbench
 
-### This the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME.
-SW_DESCRIPTION
-\<Please add here short information on the code being acquired\>  
+### This the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME, SW_DESCRIPTION.
 
 -------------------
 
 **Please note** that this file need be renamed as README.md once the development history has been archived.
 
-We suggest that you delete this line, once done.
+We suggest that you delete these line, once done.
 
 -------------------
 This repository was created with the support of the 

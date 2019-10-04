@@ -2,6 +2,14 @@
 
 ### This is the depository for the acquisition of SW_NAME, SW_DESCRIPTION.
 
+-------------------
+
+**Please note** that this file need be renamed as README.md just after instantiation. 
+
+We suggest that you delete these line, once done.
+
+-------------------
+
 This repository was created with the support of the 
 [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains 
 the [raw materials](./raw_materials) and the [browsable source](./browsable_source).
