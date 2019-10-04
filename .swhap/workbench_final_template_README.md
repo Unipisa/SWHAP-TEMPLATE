@@ -4,7 +4,7 @@
 
 -------------------
 
-**Please note:** this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.
+__Please note: this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.__
 
 This repository was created with the support of the 
 [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains the 
