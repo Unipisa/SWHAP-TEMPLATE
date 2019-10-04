@@ -4,11 +4,7 @@
 
 -------------------
 
-**Please note** that this file need be renamed as README.md just after instantiation. 
-
-We suggest that you delete these line, once done.
-
--------------------
+**Please note:** this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.
 
 This workbench comes with a few folders to support the process.
 

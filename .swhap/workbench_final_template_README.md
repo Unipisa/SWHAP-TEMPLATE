@@ -4,11 +4,8 @@
 
 -------------------
 
-**Please note** that this file need be renamed as README.md once the development history has been archived.
+**Please note:** this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.
 
-We suggest that you delete these line, once done.
-
--------------------
 This repository was created with the support of the 
 [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains the 
 [Information on the acquisition process](https://github.com/Unipisa/SW_NAME-Workbench/tree/master/metadata).
