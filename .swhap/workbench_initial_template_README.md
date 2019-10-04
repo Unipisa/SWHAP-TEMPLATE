@@ -4,9 +4,15 @@
 SW_DESCRIPTION
 \<Please add here short information on the code being acquired\>  
 
-**Please note** that this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.
+-------------------
 
-Any [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench comes with a few predefined folders, to support the users in the process.
+**Please note** that this file need be renamed as README.md just after instantiation. 
+
+We suggest that you delete this line, once done.
+
+-------------------
+
+This workbench comes with a few folders to support the process.
 
 Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
 
@@ -18,8 +24,4 @@ Folder [metadata](/.metadata) holds various files with meta information used thr
 
 Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
 
-Finalized on CURRENT_DATE
-
-* [SW_NAME](https://github.com/Unipisa/SW_NAME-Depository)
-
-* [SW_NAME-Depository](https://github.com/Unipisa/SW_NAME-Depository)
+-------------------

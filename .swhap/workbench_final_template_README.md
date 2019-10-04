@@ -1,0 +1,29 @@
+# SW_NAME Workbench
+
+### This the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME.
+SW_DESCRIPTION
+\<Please add here short information on the code being acquired\>  
+
+-------------------
+
+**Please note** that this file need be renamed as README.md once the development history has been archived.
+
+We suggest that you delete this line, once done.
+
+-------------------
+This repository was created with the support of the 
+[Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains the 
+[Information on the acquisition process](https://github.com/Unipisa/SW_NAME-Workbench/tree/master/metadata).
+
+The original finds are stored in the [Depository](https://github.com/Unipisa/SW_NAME-Depository) 
+containing the
+[raw materials](https://github.com/Unipisa/SW_NAME-Depository/tree/master/raw_materials) and the
+[browsable source](https://github.com/Unipisa/SW_NAME-Depository/tree/master/browsable_source).
+
+The resulting 
+[development history](https://github.com/Unipisa/SW_NAME/tree/SourceCode/)  can be found in the [SW_NAME repository](https://github.com/Unipisa/SW_NAME).
+
+
+Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines. 
+
+-------------------

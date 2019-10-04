@@ -1,6 +1,8 @@
 # Supporting the preservation of legacy source code.
 
-Instantiating this template creates a workbench to support the acquisition of legacy source code, according to [SWHAP](), the [Software Heritage](https://www.softwareheritage.org/) Acquisition Process defined by the [SWHAP\@Pisa]() project.
+Instantiating this template creates a workbench to support the acquisition of legacy source code, according to [SWHAP](https://www.softwareheritage.org/swhap/), the [Software Heritage](https://www.softwareheritage.org/) Acquisition Process defined by the [SWHAP\@Pisa](
+    #TODO:
+) project.
 
 The workbench comes with the predefined folders that are used in the supported process. Namely:
 
@@ -12,6 +14,6 @@ The workbench comes with the predefined folders that are used in the supported p
 
 1. Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
 
-Please note that this file need be **deleted or renamed** after instantiation.
+Please note that this file need be **replaced** in the instantiated workbench.
 
-Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
+Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for more details. 
