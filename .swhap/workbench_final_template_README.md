@@ -1,6 +1,6 @@
 # SW_NAME Workbench
 
-### This the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME, SW_DESCRIPTION.
+### This [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME, SW_DESCRIPTION.
 
 -------------------
 
@@ -16,9 +16,7 @@ containing the
 [browsable source](https://github.com/Unipisa/SW_NAME-Depository/tree/master/browsable_source).
 
 The resulting 
-[development history](https://github.com/Unipisa/SW_NAME/tree/SourceCode/)  can be found in the [SW_NAME repository](https://github.com/Unipisa/SW_NAME).
-
+[development history](https://github.com/Unipisa/SW_NAME/tree/SourceCode/) can be found in the [SW_NAME repository](https://github.com/Unipisa/SW_NAME).
 
 Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines. 
-
--------------------
+___________________________
