@@ -14,6 +14,6 @@ containing the
 [raw materials](https://github.com/Unipisa/SW_NAME-Depository/tree/master/raw_materials) and the
 [browsable source](https://github.com/Unipisa/SW_NAME-Depository/tree/master/browsable_source).
 
-[Information on the acquisition process](https://github.com/Unipisa/SW_NAME-Workbench/tree/master/metadata) can be found in the [Workbench](https://github.com/Unipisa/SW_NAME-Workbench).
+[Information on the acquisition of this code](https://github.com/Unipisa/SW_NAME-Workbench/tree/master/metadata) can be found in the [SW_NAME-Workbench](https://github.com/Unipisa/SW_NAME-Workbench) repository.
 
 -------------------
