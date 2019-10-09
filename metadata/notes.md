@@ -1,6 +1,6 @@
-## notes.md Template
+## SWHAPPE notes.md Template
 
-Here we propose a template for notes<span>.md for SWHAP.
+Here we propose a template for notes<span>.md for SWHAPPE.
 
 Please note that:
 * Name and Surname of author should be linked to their paragraph in [actors.md](./actors.md) file;
