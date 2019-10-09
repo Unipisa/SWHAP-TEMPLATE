@@ -1,28 +1,28 @@
-## DIUNIPI SWH DEPOSITORY/ACTORS.md Template
+## SWHAPPE actors.md Template
 
-Here we propose a template for ACTORS<span>.md for Depository of DIUNIPI SWH Acquisition Process.
+Here we propose a template for `actors.md` for SWHAPPE.
 
-Each participant of the process to build the Depository should have a corresponding record on the ACTORS<span>.md with the structure below.
+Each participant of the process should have a corresponding record on the `actors.md` with the structure below.
 
 Please note that:
 
-* Name and Surname of actors should be linked to their paragraph in [ACTORS.md](./ACTORS.md) file;
-* Items should be linked to the file [inside the repository](./MATERIAL/);
+* Name and Surname of actors should be linked to their paragraph in [actors.md](./actors.md) file;
+* Items should be linked to the file [inside the repository](./raw_materials/);
 * We recommend to use only one of the following roles for each record: Author, Collector, Curator;
 * Current and Historical Affiliation refer to the circumstances when the software were produced and those when the Depository is build, respectively;
 * Notes are optional.
 
 Example of Actor link:
 ~~~
-[Name Surname](./ACTORS.md#name-surname)
+[Name Surname](./actors.md#name-surname)
 ~~~
 Example of Item link:
 ~~~
-[Item Name](./MATERIAL/example_file.zip)
+[Item Name](./raw_materials/example_file.zip)
 ~~~
 
 
-# SW_NAME Depository Actors
+# SW_NAME Actors
 
 
 * # Name Surname
