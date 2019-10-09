@@ -1,6 +1,6 @@
-## DIUNIPI SWH catalogue.md Template
+## SWHAPPE catalogue.md Template
 
-Here we propose a template for catalogue<span>.md for DIUNIPI SWH Acquisition Process.
+Here we propose a template for catalogue<span>.md for SWHAPPE.
 
 Each Item in the `raw_materials` folder of Depository should have a corresponding record on the `catalogue.md` with the structure below..
 
