@@ -1,4 +1,4 @@
-## journal.md Template
+## SWHAPPE journal.md Template
 
 Here we propose a template for `journal.md` forSWHAPPE.
 
