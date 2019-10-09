@@ -7,7 +7,7 @@ Each Item in the `raw_materials` folder of Depository should have a correspondin
 Please note that:
 * Name and Surname of actors should be linked to their paragraph in [actors.md](./actors.md) file;
 * Items should be linked to the file [inside the repository](./raw_matherials/);
-* On the [second part of the Catalogue](./catalogue.md#SW_NAME-Depository-Catalougue-Tree) should be copied the result of the command `tree -a` ;
+* On the [second part of the Catalogue](./catalogue.md#SW_NAME-Catalougue-Tree) should be copied the result of the command `tree -a` ;
 * Notes are optional;
 * *Warehouse:* is optional - should be used only when a physical warehouse is used to store material taken from the *origin*.
 
@@ -34,7 +34,7 @@ Example of Item link:
   
 .
 
-# SW_NAME Depository Catalougue Tree
+# SW_NAME Catalougue Tree
 
 
 result of `tree -a`  on the `raw_materials` directory.
