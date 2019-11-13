@@ -1,40 +1,40 @@
-## DIUNIPI SWH DEPOSITORY/JOURNAL.md Template
+## SWHAPPE catalogue.md Template
 
-Here we propose a template for CATALOGUE<span>.md for Depository of DIUNIPI SWH Acquisition Process.
+Here we propose a template for catalogue<span>.md for SWHAPPE.
 
-Each Item in the MATERIAL folder of Depository should have a corresponding record on the CATALOGUE<span>.md with the structure below..
+Each Item in the `raw_materials` folder of Depository should have a corresponding record on the `catalogue.md` with the structure below..
 
 Please note that:
-* Name and Surname of actors should be linked to their paragraph in [ACTORS.md](./ACTORS.md) file;
-* Items should be linked to the file [inside the repository](./MATERIAL/);
-* On the [second part of the Catalogue](./CATALOGUE.md#SW_NAME-Depository-Catalougue-Tree) should be copied the result of the command `tree -a` ;
+* Name and Surname of actors should be linked to their paragraph in [actors.md](./actors.md) file;
+* Items should be linked to the file [inside the repository](./raw_matherials/);
+* On the [second part of the Catalogue](./catalogue.md#SW_NAME-Catalougue-Tree) should be copied the result of the command `tree -a` ;
 * Notes are optional;
 * *Warehouse:* is optional - should be used only when a physical warehouse is used to store material taken from the *origin*.
 
 Example of Actor link:
 ~~~
-[Name Surname](./ACTORS.md#name-surname)
+[Name Surname](./actors.md#name-surname)
 ~~~
 Example of Item link:
 ~~~
-[Item Name](./MATERIAL/example_file.zip)
+[Item Name](./raw_materials/example_file.zip)
 ~~~
 
 
-# SW_NAME Depository Catalougue
+# SW_NAME Catalougue
 
 
-* **[Item Name](./MATERIAL/example_file.zip)**
+* **[Item Name](./raw_materials/example_file.zip)**
   * *Origin:* 
   * *Warehouse:*
-  * *Authors:* [Name Surname](./ACTORS.md#name-surname)
-  * *Collectors:* [Name Surname](./ACTORS.md#name-surname)
+  * *Authors:* [Name Surname](./actors.md#name-surname)
+  * *Collectors:* [Name Surname](./actors.md#name-surname)
   * *Description:* 
   * *Notes:*
   
 .
 
-# SW_NAME Depository Catalougue Tree
+# SW_NAME Catalougue Tree
 
 
-result of `tree -a`  on MATERIAL directory.
+result of `tree -a`  on the `raw_materials` directory.

@@ -1,11 +1,19 @@
-# SW_NAME Workbench
+# Supporting the preservation of legacy source code.
 
-Workbench of [SW_NAME](https://github.com/Unipisa/SWH-SW_NAME) acquisition.
+Instantiating this template creates a workbench to support the acquisition of legacy source code, according to [SWHAP](https://www.softwareheritage.org/swhap/), the [Software Heritage](https://www.softwareheritage.org/) Acquisition Process defined by the [SWHAP\@Pisa](
+    #TODO:
+) project.
 
-In [raw material](./raw_material) folder put is the original material;
+The workbench comes with the predefined folders that are used in the supported process. Namely:
 
-In [browsable source](./browsable_source) folder put is the unzipped source code;
+1. Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
 
-In [source](./source) folder put is the curated source code to build the synthetic git by [DT2SG](https://github.com/Unipisa/DIUNIPI-SWH-SSGC);;
+1. Folder [browsable source](./browsable_source) is for a browsable version of the source code. Source files, with the right extension, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, code should be transcribed if provided by images, etc.
 
-The files in [metadata](/.metadata) folder must be as described in the [SWHAP-PISA](https://github.com/Unipisa/SWHAP-DT2SG) guidelines.
+1. Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history as a git repository.
+
+1. Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
+
+Please note that this file need be **replaced** in the instantiated workbench.
+
+Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for more details. 
