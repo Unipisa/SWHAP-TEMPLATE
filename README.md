@@ -6,14 +6,14 @@ Instantiating this template creates a workbench to support the acquisition of le
 
 The workbench comes with the predefined folders that are used in the supported process. Namely:
 
-1. Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
+- Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
 
-1. Folder [browsable source](./browsable_source) is for a browsable version of the source code. Source files, with the right extension, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, code should be transcribed if provided by images, etc.
+- Folder [browsable source](./browsable_source) is for a browsable version of the source code. Source files, with the right extension, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, code should be transcribed if provided by images, etc.
 
-1. Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history as a git repository.
+- Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history as a git repository.
 
-1. Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
+- Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
 
 Please note that this file need be **replaced** in the instantiated workbench.
 
-Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for more details. 
+Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf)  for more details. 
