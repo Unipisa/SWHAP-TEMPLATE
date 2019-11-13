@@ -4,7 +4,7 @@
 
 -------------------
 
-__Please note: this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.__
+__Please note: this file shall substitute the README md file of the repository, after archiving the source code into SWH for the first time. This paragraph should be deleted.__
 
 This repository was created with the support of the 
 [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains the 
@@ -18,5 +18,5 @@ containing the
 The resulting 
 [development history](https://github.com/Unipisa/SW_NAME/tree/SourceCode/) can be found in the [SW_NAME repository](https://github.com/Unipisa/SW_NAME).
 
-Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines. 
+Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf)  for more details. 
 ___________________________
