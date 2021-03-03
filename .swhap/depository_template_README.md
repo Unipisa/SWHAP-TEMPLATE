@@ -2,6 +2,8 @@
 
 ### This is the depository for the acquisition of SW_NAME, SW_DESCRIPTION.
 
+OPTIONAL_ADDITIONAL_SW_DESCRIPTION
+
 -------------------
 
 __Please note: this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.__
