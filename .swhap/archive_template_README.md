@@ -2,11 +2,13 @@
 
 ### SW_DESCRIPTION 
 
+OPTIONAL_ADDITIONAL_SW_DESCRIPTION
+
 -------------------
 __Please note: this file need be renamed as README.md just after instantiation. We suggest that you delete this line, once done.__
 
-This repository contains the 
-[SW_NAME Development History](https://github.com/Unipisa/SW_NAME/tree/SourceCode/). 
+This repository contains the development history of the source code of SW_NAME
+[in this barch](https://github.com/Unipisa/SW_NAME/tree/SourceCode/). 
 
 The original finds are stored in the [Depository](https://github.com/Unipisa/SW_NAME-Depository) 
 containing the
