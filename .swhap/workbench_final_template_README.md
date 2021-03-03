@@ -2,6 +2,8 @@
 
 ### This [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME, SW_DESCRIPTION.
 
+OPTIONAL_ADDITIONAL_SW_DESCRIPTION
+
 -------------------
 
 __Please note: this file shall substitute the README md file of the repository, after archiving the source code into SWH for the first time. This paragraph should be deleted.__
