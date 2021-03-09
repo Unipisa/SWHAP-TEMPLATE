@@ -1,3 +1,3 @@
-Thi foledr contains materials originated during the recovery process to document it or to shed new light on the recovered software project.
+Thi folder contains materials originated during the recovery process to document it or to shed new light on the recovered software project.
 
 Please refear to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
