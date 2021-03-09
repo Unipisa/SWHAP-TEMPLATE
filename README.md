@@ -14,6 +14,8 @@ The workbench comes with the predefined folders that are used in the supported p
 
 - Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
 
+- Folder [additional materials](./additional_materials) is for materials originated during the recovery process to document it or to shed new light on the recovered software project.
+
 Please note that this file need be **replaced** in the instantiated workbench.
 
 Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf)  for more details. 
