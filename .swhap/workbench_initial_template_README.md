@@ -18,6 +18,8 @@ Folder [source](./source) is for the curated revision of the source code, as a b
 
 Folder [metadata](./metadata) holds various files with meta information used throughout the process. 
 
+- Folder [additional materials](./additional_materials) is for materials originated during the recovery process to document it or to shed new light on the recovered software project.
+
 Folder [.swhap](./.swhap) holds the templates of the README files of the various repositories created in the process.
 
 Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf)  for more details.
