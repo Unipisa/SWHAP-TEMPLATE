@@ -7,7 +7,7 @@ Each Item in the `raw_materials` folder of Depository should have a correspondin
 Please note that:
 * Name and Surname of actors should be linked to their paragraph in [actors.md](./actors.md) file;
 * Items should be linked to the file [inside the repository](./raw_matherials/);
-* On the [second part of the Catalogue](./catalogue.md#SW_NAME-Catalougue-Tree) should be copied the result of the command `tree -a` ;
+* On the [second part of the Catalogue](./catalogue.md#SW_NAME-Catalogue-Tree) should be copied the result of the command `tree -a raw_materials additional_materials ` ;
 * Notes are optional;
 * *Warehouse:* is optional - should be used only when a physical warehouse is used to store material taken from the *origin*.
 
@@ -21,20 +21,26 @@ Example of Item link:
 ~~~
 
 
-# SW_NAME Catalougue
+# SW_NAME Catalogue
 
 
 * **[Item Name](./raw_materials/example_file.zip)**
   * *Origin:* 
-  * *Warehouse:*
+  * *Warehouse:* 
   * *Authors:* [Name Surname](./actors.md#name-surname)
   * *Collectors:* [Name Surname](./actors.md#name-surname)
   * *Description:* 
-  * *Notes:*
+  * *Notes:* 
   
-.
+* **[Additional Material Item Name](./additional_materials/example.ppt)**
+  * *Origin:* 
+  * *Warehouse:* born-digital
+  * *Authors:* [Name Surname](./actors.md#name-surname)
+  * *Collectors:* [Name Surname](./actors.md#name-surname)
+  * *Description:* 
+  * *Notes:* in folder: additional materials;
 
-# SW_NAME Catalougue Tree
+# SW_NAME Catalogue Tree
 
 
-result of `tree -a`  on the `raw_materials` directory.
+result of `tree -a raw_materials additional_materials` command.
