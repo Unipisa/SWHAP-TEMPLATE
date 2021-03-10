@@ -18,7 +18,7 @@ Example of Actor link:
 Example of Item links:
 ~~~
 [Item Name](./raw_materials/example_file.zip)
-[Additional Material Item Name](./additional_materials/example.ppt)
+[Additional Materials Item Name](./additional_materials/example.ppt)
 ~~~
 
 
