@@ -8,7 +8,7 @@ Please note that:
 * Name and Surname of actors should be linked to their paragraph in [actors.md](./actors.md) file;
 * Items should be linked to the file [inside the raw materials repository](./raw_matherials/) or [inside the additional materials repository](./additional_matherials/);
 * On the [second part of the Catalogue](./catalogue.md#SW_NAME-Catalogue-Tree) should be copied the result of the command `tree -a raw_materials additional_materials ` ;
-* Notes are optional; they should contains *in folder: additional materials* for additional materials
+* *Notes:* are optional; they should contains `Additional materials.` for additional materials
 * *Warehouse:* is optional - should be used only when a physical warehouse is used to store material taken from the *origin*; .
 
 Example of Actor link:
@@ -38,7 +38,7 @@ Example of Item links:
   * *Authors:* [Name Surname](./actors.md#name-surname)
   * *Collectors:* [Name Surname](./actors.md#name-surname)
   * *Description:* 
-  * *Notes:* *in folder: additional materials*;
+  * *Notes:* Additional materials;
 
 # SW_NAME Catalogue Tree
 
