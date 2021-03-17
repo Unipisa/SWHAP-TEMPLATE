@@ -15,7 +15,7 @@ The original finds are stored in the [Depository](https://github.com/Unipisa/SW
 The resulting 
 [development history](https://github.com/Unipisa/SW_NAME/tree/SourceCode/) can be found in the [SW_NAME repository](https://github.com/Unipisa/SW_NAME).
 
-This repository was created with the support of the [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE).  
-Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf) for more details.
+This repository was created with the support of the [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE). 
+Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/blob/master/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf) for more details.
 
 -------------------
