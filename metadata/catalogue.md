@@ -29,6 +29,7 @@ Example of Item links:
   * *Origin:* 
   * *Warehouse:* 
   * *Authors:* [Name Surname](./actors.md#name-surname)
+  * *Date:* 1970/01/25 (circa) 
   * *Collectors:* [Name Surname](./actors.md#name-surname)
   * *Description:* 
   * *Notes:* 
@@ -36,6 +37,7 @@ Example of Item links:
 * **[Additional Material Item Name](./additional_materials/example.ppt)**
   * *Origin:* 
   * *Authors:* [Name Surname](./actors.md#name-surname)
+  * *Date:* 1979/05/20 
   * *Collectors:* [Name Surname](./actors.md#name-surname)
   * *Description:* 
   * *Notes:* Additional materials;
